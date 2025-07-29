@@ -1,0 +1,6 @@
+.homeBody {
+  background-color: #1abc9c;
+}
+.homeBody > img {
+  width: 15%;
+}

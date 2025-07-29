@@ -1,0 +1,15 @@
+.contactBody{
+    padding-top: 150px;
+    padding-bottom: 250px;
+}
+.form{
+    height: 50px;
+}
+.form:focus{
+    box-shadow: none;
+    border-color: #dee2e6;
+}
+
+.secBg{
+    background-color: #1abc9c;
+}

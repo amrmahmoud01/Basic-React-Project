@@ -1,0 +1,26 @@
+.portfolioBody {
+  padding-top: 150px;
+}
+
+.item {
+  cursor: pointer;
+}
+
+.layer {
+  background-color: #1abc9c;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+.layer:hover {
+  opacity: 90%;
+}
+
+.overlay {
+  background-color: rgb(26, 188, 156, 20%);
+  z-index: 10;
+}
+
+.overlay >img{
+    width:35%
+}

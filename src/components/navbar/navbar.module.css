@@ -1,0 +1,12 @@
+.scrolling {
+  transition: padding 0.5s;
+}
+
+.active {
+  background-color: #1abc9c;
+  transition: background-color 0.5s ;
+}
+
+.zindex{
+  z-index: 2;
+}

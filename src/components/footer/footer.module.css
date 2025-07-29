@@ -1,0 +1,11 @@
+.footerBody {
+  background-color: #2c3e50;
+  color: white;
+  padding: 70px 0px;
+}
+.icon{
+    width: 38px;
+    height: 38px;
+    border: 1px solid;
+    border-radius: 50%;
+}
